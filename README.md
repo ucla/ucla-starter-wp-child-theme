@@ -1,45 +1,31 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Official Strategic Communication WordPress Theme #
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+* Version 1.0.0
+* Tested up to WordPress 5.5.1
+* UCLA Strat Comm recommendations on WordPress approved plugins and practices,[go here](https://spaces.ais.ucla.edu/display/ucomm/WordPress).
+* To get linked into the Campus WordFence Central please reach out to svosburgh@stratcomm.ucla.edu
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
 
----
+Welcome to the official Child theme for [ucla-sc](https://bitbucket.org/uclaucomm/ucla-sc/src/distribution/) WordPress theme. This theme was created through a collaboration effort between Strategic Communications and DCP to ensure that it is inline with the UCLA brand and ADA compliant. Not sure if you need this theme? This quick article on [child themes](https://www.wpbeginner.com/glossary/child-theme/) may help.
 
-## Edit a file
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+### WordPress Install ###
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+To install this theme on your WordPress site you must have the [parent theme](https://bitbucket.org/uclaucomm/ucla-sc/src/distribution/) installed. Go to Appearance > Themes in the left hand menu of the WordPress admin and then select the "Add New" button on the themes page. Upload the zip file and activate the new uploaded theme.
 
----
+*Get Started*
 
-## Create a file
+To learn about child theme development you can read about it in Wordpress's [Child Theme Developer Documentation](https://developer.wordpress.org/themes/advanced-topics/child-themes/).
 
-Next, you’ll add a new file to this repository.
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+### Contribution guidelines ###
 
----
+* Code review is preformed by Strategic Communications and DCP for ADA compliance if necessary.
+* All commits must be on brand according to the UCLA Brand Guidelines website and ADA compliant.
+* This repository follows the same [UCLA Web Component Library contributing guidelines](https://webcomponents.ucla.edu).
 
-## Clone a repository
+### Who do I talk to? ###
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+* UCLA Strategic Communications Department
+* Repo admin svosburgh@stratcomm.ucla.edu
