@@ -6,12 +6,12 @@
 * To get linked into the Campus WordFence Central please reach out to svosburgh@stratcomm.ucla.edu
 
 
-Welcome to the official Child theme for [ucla-sc](https://bitbucket.org/uclaucomm/ucla-sc/src/distribution/) WordPress theme. This theme was created through a collaboration effort between Strategic Communications and DCP to ensure that it is inline with the UCLA brand and ADA compliant. Not sure if you need this theme? This quick article on [child themes](https://www.wpbeginner.com/glossary/child-theme/) may help.
+Welcome to the official Child theme for [ucla-wp](https://bitbucket.org/uclaucomm/ucla-wp/src/distribution/) WordPress theme. This theme was created through a collaboration effort between Strategic Communications and DCP to ensure that it is inline with the UCLA brand and ADA compliant. Not sure if you need this theme? This quick article on [child themes](https://www.wpbeginner.com/glossary/child-theme/) may help.
 
 
 ### WordPress Install ###
 
-To install this theme on your WordPress site you must have the [parent theme](https://bitbucket.org/uclaucomm/ucla-sc/src/distribution/) installed. Go to Appearance > Themes in the left hand menu of the WordPress admin and then select the "Add New" button on the themes page. Upload the zip file and activate the new uploaded theme.
+To install this theme on your WordPress site you must have the [parent theme](https://bitbucket.org/uclaucomm/ucla-wp/src/distribution/) installed. Go to Appearance > Themes in the left hand menu of the WordPress admin and then select the "Add New" button on the themes page. Upload the zip file and activate the new uploaded theme.
 
 *Get Started*
 
